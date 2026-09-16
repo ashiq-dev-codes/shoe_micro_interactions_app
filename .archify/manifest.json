@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "structure": [
+    "lib",
+    "lib/app.dart",
+    "lib/feature",
+    "lib/main.dart",
+    "lib/root.dart",
+    "lib/shared",
+    "lib/shared/constant",
+    "lib/shared/constant/constant.dart",
+    "lib/shared/path",
+    "lib/shared/path/app_images.dart",
+    "lib/shared/path/app_svg.dart",
+    "lib/shared/theme",
+    "lib/shared/theme/app_colors.dart",
+    "lib/shared/utils",
+    "lib/shared/widget"
+  ],
+  "features": {
+    "shoe": [
+      "lib/feature/shoe",
+      "lib/feature/shoe/presentation",
+      "lib/feature/shoe/presentation/page",
+      "lib/feature/shoe/presentation/page/shoe_page.dart",
+      "lib/feature/shoe/presentation/widget"
+    ]
+  }
+}
